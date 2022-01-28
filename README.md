@@ -12,9 +12,9 @@ In this project we are going to use Django RestFramework to do operation.
 
 >first create a project and app
 >create a custom user model
-                  >Open models.py and define user model class
-                  >And add required fields 
-                  >Then open terminal and do migrations and migrate
+                  >Open models.py and define user model class.
+                  >And add required fields.
+                  >Then open terminal and do migrations and migrate.
 >install djangorestframework and django-rest-knox
 >add them to installed app
 
